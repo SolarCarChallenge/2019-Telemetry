@@ -1,6 +1,6 @@
 ## Required Modules
 
-For this application, you will need to add some additional modules not included with the pi-top OS.  You can load them using apt-get from the command line.  To download the modules, open the command line and type:
+For this application, you will need to add some additional modules not included.  You can load them using apt-get from the command line.  To download the modules, open the command line and type:
 
 ```
 sudo apt-get update
